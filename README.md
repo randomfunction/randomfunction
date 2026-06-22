@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tanishq Parihar</h1>
 
 <p align="center">
-  <strong>AI & Backend Engineer | Low-Latency Systems | Agentic Workflows</strong><br>
+  <strong>AI & Backend Engineer | Distributed Systems | Agentic Workflows</strong><br>
   Focused on building high-throughput infrastructure, containerized deployments, and intelligent AI agents.
 </p>
 
@@ -38,19 +38,10 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[nlptosql](https://github.com/randomfunction/nlptosql)** | Agentic workflow converting NLP to SQL using LangGraph. Implements Redis for vector search and caching. | Python, LangGraph, Redis |
-| **[Trading_Engine](https://github.com/randomfunction/Trading_Engine)** | Low-latency matching engine prototype. Features single-writer ownership, lock-free SPSC queue, and bounded memory. | C++17 |
-| **[MessageBroker](https://github.com/randomfunction/MessageBroker)** | High-performance, lock-free message broker utilizing atomic ring buffers and multi-threading for nanosecond latency. | C++17 |
-| **[LSMTree_engine](https://github.com/randomfunction/LSMTree_engine)** | Single-threaded LSM-tree key-value store featuring write-ahead logging (WAL), Bloom filters, and compaction. | C++17 |
 | **[SyncEngine](https://github.com/randomfunction/SyncEngine)** | Distributed synchronization backend designed for real-time collaborative applications using CRDTs. | TypeScript, Yjs, Next.js |
-
----
-
-<h3 align="left">GitHub Analytics</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=randomfunction&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=randomfunction&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" width="48%" />
-</p>
+| **[nlptosql](https://github.com/randomfunction/nlptosql)** | Agentic workflow converting NLP to SQL using LangGraph. Implements Redis for vector search and caching. | Python, LangGraph, Redis |
+| **[LSMTree_engine](https://github.com/randomfunction/LSMTree_engine)** | Single-threaded LSM-tree key-value store featuring write-ahead logging (WAL), Bloom filters, and compaction. | C++17 |
+| **[MessageBroker](https://github.com/randomfunction/MessageBroker)** | High-performance, lock-free message broker utilizing atomic ring buffers and multi-threading for nanosecond latency. | C++17 |
 
 ---
 
