@@ -1,18 +1,64 @@
-# About Me:
-Prefinal year student at IIIT Nagpur, interested in backend and AI infrastructure
+<h1 align="center">Hi, I'm Tanishq Parihar</h1>
 
+<p align="center">
+  <strong>AI & Backend Engineer | Low-Latency Systems | Agentic Workflows</strong><br>
+  Focused on building high-throughput infrastructure, containerized deployments, and intelligent AI agents.
+</p>
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishq52) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishqparihar3@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=randomfunction&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=randomfunction&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=randomfunction&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=randomfunction&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=randomfunction&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" /></a> 
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=randomfunction&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Core Stack & Tools</h3>
+<p align="left"> 
+  <!-- Systems & Backend -->
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/></a> 
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></a> 
+  <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="35" height="35"/></a>
+  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="35" height="35"/></a> 
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="35" height="35"/></a> 
+  
+  <!-- AI & Machine Learning -->
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/></a> 
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="35" height="35"/></a> 
+
+  <!-- Infrastructure & Web -->
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="35" height="35"/></a> 
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/></a> 
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/></a> 
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/></a> 
+</p>
+
+---
+
+<h3 align="left">Featured Engineering Work</h3>
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[nlptosql](https://github.com/randomfunction/nlptosql)** | Agentic workflow converting NLP to SQL using LangGraph. Implements Redis for vector search and caching. | Python, LangGraph, Redis |
+| **[Trading_Engine](https://github.com/randomfunction/Trading_Engine)** | Low-latency matching engine prototype. Features single-writer ownership, lock-free SPSC queue, and bounded memory. | C++17 |
+| **[MessageBroker](https://github.com/randomfunction/MessageBroker)** | High-performance, lock-free message broker utilizing atomic ring buffers and multi-threading for nanosecond latency. | C++17 |
+| **[LSMTree_engine](https://github.com/randomfunction/LSMTree_engine)** | Single-threaded LSM-tree key-value store featuring write-ahead logging (WAL), Bloom filters, and compaction. | C++17 |
+| **[SyncEngine](https://github.com/randomfunction/SyncEngine)** | Distributed synchronization backend designed for real-time collaborative applications using CRDTs. | TypeScript, Yjs, Next.js |
+
+---
+
+<h3 align="left">GitHub Analytics</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=randomfunction&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=randomfunction&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" width="48%" />
+</p>
+
+---
+
+<h3 align="left">Connect With Me</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/tanishq52" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://kaggle.com/tanishq51" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/random_function" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/pluto69" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/ceramic_cat" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
