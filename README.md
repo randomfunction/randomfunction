@@ -5,9 +5,16 @@
   Focused on building high-throughput infrastructure, containerized deployments, and intelligent AI agents.
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=randomfunction&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
+---
+<h3 align="left">Featured Engineering Work</h3>
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[SyncEngine](https://github.com/randomfunction/SyncEngine)** | Distributed synchronization backend designed for real-time collaborative applications using CRDTs. | TypeScript, Yjs, Next.js |
+| **[Vector Database](https://github.com/randomfunction/vector_database)** | High-Performance HNSW Vector Database & Semantic Search Engine. | C++, Javascript, Python |
+| **[nlptosql](https://github.com/randomfunction/nlptosql)** | Agentic workflow converting NLP to SQL using LangGraph. Implements Redis for vector search and caching. | Python, LangGraph, Redis |
+| **[LSMTree_engine](https://github.com/randomfunction/LSMTree_engine)** | Single-threaded LSM-tree key-value store featuring write-ahead logging (WAL), Bloom filters, and compaction. | C++17 |
+| **[MessageBroker](https://github.com/randomfunction/MessageBroker)** | High-performance, lock-free message broker utilizing atomic ring buffers and multi-threading for nanosecond latency. | C++17 |
 
 ---
 
@@ -33,16 +40,6 @@
 
 ---
 
-<h3 align="left">Featured Engineering Work</h3>
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[SyncEngine](https://github.com/randomfunction/SyncEngine)** | Distributed synchronization backend designed for real-time collaborative applications using CRDTs. | TypeScript, Yjs, Next.js |
-| **[nlptosql](https://github.com/randomfunction/nlptosql)** | Agentic workflow converting NLP to SQL using LangGraph. Implements Redis for vector search and caching. | Python, LangGraph, Redis |
-| **[LSMTree_engine](https://github.com/randomfunction/LSMTree_engine)** | Single-threaded LSM-tree key-value store featuring write-ahead logging (WAL), Bloom filters, and compaction. | C++17 |
-| **[MessageBroker](https://github.com/randomfunction/MessageBroker)** | High-performance, lock-free message broker utilizing atomic ring buffers and multi-threading for nanosecond latency. | C++17 |
-
----
 
 <h3 align="left">Connect With Me</h3>
 <p align="left">
