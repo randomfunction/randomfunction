@@ -1,24 +1,26 @@
 <h1 align="center">Hi, I'm Tanishq Parihar</h1>
 
 <p align="center">
-  <strong>AI & Backend Engineer | Distributed Systems | Agentic Workflows</strong><br>
-  Focused on building high-throughput infrastructure, containerized deployments, and intelligent AI agents.
+  <strong>AI & Backend Engineer | Distributed Systems | Applied AI</strong><br>
 </p>
 
 ---
-<h3 align="left">Featured Engineering Work</h3>
+<h3 align="left">// Engineering Log</h3>
+
+Selected systems, from the network layer down to storage.
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[SyncEngine](https://github.com/randomfunction/SyncEngine)** | Distributed synchronization backend designed for real-time collaborative applications using CRDTs. | TypeScript, Yjs, Next.js |
-| **[Vector Database](https://github.com/randomfunction/vector_database)** | High-Performance HNSW Vector Database & Semantic Search Engine. | C++, Javascript, Python |
-| **[nlptosql](https://github.com/randomfunction/nlptosql)** | Agentic workflow converting NLP to SQL using LangGraph. Implements Redis for vector search and caching. | Python, LangGraph, Redis |
-| **[LSMTree_engine](https://github.com/randomfunction/LSMTree_engine)** | Single-threaded LSM-tree key-value store featuring write-ahead logging (WAL), Bloom filters, and compaction. | C++17 |
-| **[MessageBroker](https://github.com/randomfunction/MessageBroker)** | High-performance, lock-free message broker utilizing atomic ring buffers and multi-threading for nanosecond latency. | C++17 |
+| **[SyncEngine](https://github.com/randomfunction/SyncEngine)** | Distributed synchronization backend for real-time collaborative apps, built on CRDTs. No central coordinator — independent replicas run their own logic and still converge on the same state. A stand-alone complex, in the literal sense. | TypeScript, Yjs, Next.js |
+| **[Vector Database](https://github.com/randomfunction/vector_database)** | High-performance HNSW vector database and semantic search engine, built from index to query. HNSW constructs a navigable graph through a space you can't see directly — you only ever move through it, layer by layer. | C++, Javascript, Python |
+| **[nlptosql](https://github.com/randomfunction/nlptosql)** | Agentic workflow that translates natural language into SQL, orchestrated with LangGraph and backed by Redis for vector search and caching. The graph branches, backtracks, and converges — less a single guess, more a search across possible worldlines of a query. | Python, LangGraph, Redis |
+| **[LSMTree_engine](https://github.com/randomfunction/LSMTree_engine)** | Single-threaded LSM-tree key-value store, built the way real ones are: a write-ahead log first, so nothing is lost before it's committed; Bloom filters to skip searches that aren't worth doing; background compaction to keep years of writes from becoming an unmanageable pile. | C++17 |
+| **[MessageBroker](https://github.com/randomfunction/MessageBroker)** | Lock-free message broker built on atomic ring buffers — no locks, no waiting, just multiple threads reading and writing in step. Latency measured in nanoseconds: tight enough that synchronization stops being a bottleneck and starts looking like a single system. | C++17 |
 
 ---
 
-<h3 align="left">Core Stack & Tools</h3>
+<h3 align="left">// Interface Layer</h3>
+<p align="left">The layer between logic and execution:</p>
 <p align="left"> 
   <!-- Systems & Backend -->
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/></a> 
@@ -41,7 +43,7 @@
 ---
 
 
-<h3 align="left">Connect With Me</h3>
+<h3 align="left">// Uplink</h3>
 <p align="left">
   <a href="https://linkedin.com/in/tanishq52" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://kaggle.com/tanishq51" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
