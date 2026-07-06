@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Tanishq%20Parihar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Backend%20Engineer&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Distributed+Systems;Agentic+Workflows;High-Throughput+Infrastructure" alt="Typing SVG"/>
-
 <p>
 Hey, I'm Tanishq. I build robust backend infrastructure, AI agents, and distributed systems. I like focusing on the details—whether that's squeezing out nanosecond latency in a custom message broker or reasoning about state across decentralized networks. 
 </p>
@@ -72,8 +68,4 @@ Hey, I'm Tanishq. I build robust backend infrastructure, AI agents, and distribu
   <a href="https://www.codechef.com/users/random_function" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/pluto69" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
   <a href="https://www.leetcode.com/ceramic_cat" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=randomfunction&color=2c5364&style=flat-square" alt="profile views"/>
 </p>
