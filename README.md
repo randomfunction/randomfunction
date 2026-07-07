@@ -1,7 +1,7 @@
 <div align="center">
 
 <p>
-Hey, I'm Tanishq. I build robust backend infrastructure, AI agents, and distributed systems. I like focusing on the details—whether that's squeezing out nanosecond latency in a custom message broker or reasoning about state across decentralized networks. 
+Hey, I'm Tanishq. I like to build backend infrastructure, AI agents, and distributed systems. 
 </p>
 
 </div>
@@ -9,7 +9,7 @@ Hey, I'm Tanishq. I build robust backend infrastructure, AI agents, and distribu
 ---
 
 ### What I've Built
-*A selection of systems I've engineered, from the network layer down to storage.*
+*A selection of systems I've engineered*
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
