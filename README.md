@@ -1,7 +1,7 @@
 <div align="center">
 
 <p>
-Hey, I'm Tanishq. I like to build backend infrastructure, AI agents, and distributed systems. 
+Hey, I'm Tanishq. I like to build backend infrastructure and distributed systems. 
 </p>
 
 </div>
