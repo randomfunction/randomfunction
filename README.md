@@ -1,6 +1,6 @@
-Final-year CS student at IIIT Nagpur, graduating Aug 2027. I build storage engines, vector search and LLM request routing, mostly in C++ and Rust. Currently an SDE intern at Sign3, working on AWS/EKS infrastructure and data pipelines.
+Final-year CS student at IIIT Nagpur, graduating Aug 2027. I enjoy exploring storage engines, LLM inferencing and kernel optimisations. Currently an SDE intern at Sign3, working on DevOps, NetOps, and SecOps infrastructure, data pipelines and api architectures.
 
-Looking for backend, infrastructure, AI-infra and low-level systems roles.
+Looking for backend, distributed-systems, AI-infra and low-level systems roles.
 
 [LinkedIn](https://linkedin.com/in/tanishq52)
 
@@ -14,4 +14,4 @@ Looking for backend, infrastructure, AI-infra and low-level systems roles.
 
 ### Stack
 
-C++17 · Rust · Java · Python · AWS (EKS, Lambda, Kinesis, DynamoDB) · Kubernetes · ClickHouse · Parquet · Redis · Docker
+C++17 · Rust · Java · Python · AWS · Kubernetes · ClickHouse · Redis · Docker
